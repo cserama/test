@@ -1,0 +1,8 @@
+func main() {
+	age :=18
+	if age>=12 {
+	fmt.Println("you can Drive")
+	} else {
+	fmt.Println("You can't Drive")
+	}
+}
